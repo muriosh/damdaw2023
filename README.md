@@ -14,3 +14,6 @@ Durante dos décadas no fueron descubiertas lunas adicionales; pero entre octubr
 La Voyager 1 es actualmente el objeto hecho por el ser humano más alejado de la Tierra, viajando a la cuarta mayor velocidad relativa de la Tierra y el Sol entre las sondas espaciales, después de la Rosetta (que viajó a unos 108 000 km/h entre noviembre de 2009 y agosto de 2014), la Helios B que alcanzó unos 252 900 km/h en abril de 1976 y, sobre todo, que la sonda Solar Parker que ya ha alcanzado los 324 000 km/h en su primera aproximación a nuestra estrella (el 1 de noviembre de 2018) y se espera que en su paso más cercano al Sol ronde los 700 000 km/h en 2025.
 
 Se celebró una reunión de equipo del proyecto ayer, a la que asistieron  X. Lisitea, Y. Carme y Z. Ananké, qué caordaron la siguientes tareas. Se ha enviado ya el acta para su aprobación.
+
+
+Nueva reunión de poryecto que actualiza las actas.
