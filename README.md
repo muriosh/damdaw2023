@@ -16,4 +16,6 @@ La Voyager 1 es actualmente el objeto hecho por el ser humano más alejado de la
 Se celebró una reunión de equipo del proyecto ayer, a la que asistieron  X. Lisitea, Y. Carme y Z. Ananké, qué caordaron la siguientes tareas. Se ha enviado ya el acta para su aprobación.
 
 
-Nueva reunión de poryecto que actualiza las actas.
+Nueva reunión de proyecto que actualiza las actas.
+
+Observaciones recibidas que han vuelto a mofidicar el acta.
